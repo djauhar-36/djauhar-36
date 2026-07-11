@@ -46,7 +46,7 @@ Git • GitHub • REST APIs • Flutter
 </table>
 ---
 
-## 🚀 Featured Projects
+## 🚀  Projects
 
 ### ⚖️ Lawly DZ
 Digital Legal Platform for Algeria
