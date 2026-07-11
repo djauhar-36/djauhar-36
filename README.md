@@ -40,3 +40,4 @@ Management platform for startup incubation.
 
 - LinkedIn: (ضع الرابط)
 - Email: (ضع بريدك)
+![Snake animation](https://github.com/djauhar-36/djauhar-36/blob/output/github-contribution-grid-snake.svg)
