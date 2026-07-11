@@ -23,7 +23,27 @@ Java • Spring Boot • JavaScript • Node.js • Express.js • React
 MongoDB • PostgreSQL • MySQL • Docker • Linux
 
 Git • GitHub • REST APIs • Flutter
+<h2 align="center">🛠️ Tech Stack</h2>
 
+<table align="center">
+<tr>
+<td align="center">
+
+
+
+<img src="https://skillicons.dev/icons?i=java,spring,js,nodejs,express,react,flutter,docker,git,github,linux,mongodb,mysql,postgres,html,css" />
+
+</td>
+
+<td align="center">
+
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=djauhar-36&layout=compact&theme=github_dark&hide_border=true" />
+
+</td>
+</tr>
+</table>
 ---
 
 ## 🚀 Featured Projects
@@ -46,5 +66,3 @@ Management platform for startup incubation.
 <p align="center">
   <img src="https://github.com/djauhar-36/djauhar-36/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djauhar-36&layout=compact)
