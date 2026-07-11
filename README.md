@@ -1,3 +1,4 @@
+https://readme-typing-svg.demolab.com/demo/?lines=Hi+%F0%9F%91%8B%2C+I'm+Zehar+Djauhar+Tadj+Eddine;Full-Stack+Developer;Legal+Tech+Enthusiast;Master's+Student+in+Networks+%26+Security
 # Hi 👋, I'm Zehar Djauhar Tadj Eddine
 
 ### Full-Stack Developer | Private Law Graduate | Master's Student in Networks & Security
