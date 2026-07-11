@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi 👋, I'm Zehar Djauhar Tadj Eddine
 
+### Full-Stack Developer | Private Law Graduate | Master's Student in Networks & Security
 
-**djauhar-36/djauhar-36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Passionate about building modern web applications and exploring emerging technologies.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🎓 Bachelor's Degree in Information Systems
+- ⚖️ Bachelor's Degree in Private Law
+- 🏆 Ranked First in Information Systems (2025–2026)
+- 🎓 Currently pursuing a Professional Master's in Networks & Security
+- 🌱 Currently learning Spring Boot, DevOps and Cloud Technologies
+- 💡 Interested in Artificial Intelligence, Blockchain, Networking and Electronics
+- 🔧 Passionate about combining Software Engineering with Legal Technology (Legal Tech)
 
+---
+
+## 🛠️ Tech Stack
+
+Java • Spring Boot • JavaScript • Node.js • Express.js • React
+
+MongoDB • PostgreSQL • MySQL • Docker • Linux
+
+Git • GitHub • REST APIs • Flutter
+
+---
+
+## 🚀 Featured Projects
+
+### ⚖️ Lawly DZ
+Digital Legal Platform for Algeria
+
+### 🏛️ University Business Incubator Platform
+Management platform for startup incubation.
+
+---
+
+## 📫 Connect with Me
+
+- LinkedIn: (ضع الرابط)
+- Email: (ضع بريدك)
