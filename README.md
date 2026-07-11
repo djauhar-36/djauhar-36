@@ -40,8 +40,9 @@ Management platform for startup incubation.
 
 ## 📫 Connect with Me
 
-- LinkedIn: (ضع الرابط)
-- Email: (ضع بريدك)
+- LinkedIn: https://www.linkedin.com/in/djauhar-tadj-eddine-zehar-41286621a/
+- Email: Djauhartadjeddine.zehar@gmail.com
+- phone: +213 (0) 774770601 
 
 
 <p align="center">
