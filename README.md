@@ -1,7 +1,5 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=392EF7&background=C4BCFF00&multiline=true&width=1000&height=200&lines=Hi+%F0%9F%91%8B%2C+I'm+Zehar+Djauhar+Tadj+Eddine;Full-Stack+Developer+%26%26+Legal+Tech+Enthusiast;Master's+Student+in+Networks+%26+Security" alt="Typing SVG" /></a>
 
-# Hi 👋, I'm Zehar Djauhar Tadj Eddine
-
 ### Full-Stack Developer | Private Law Graduate | Master's Student in Networks & Security
 
 💻 Passionate about building modern web applications and exploring emerging technologies.
