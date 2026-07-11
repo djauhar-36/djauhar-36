@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="[https://github.com/djauhar-36/djauhar-36/blob/output/github-contribution-grid-snake.svg](https://readme-typing-svg.demolab.com/demo/?lines=Hi+%F0%9F%91%8B%2C+I'm+Zehar+Djauhar+Tadj+Eddine;Full-Stack+Developer;Legal+Tech+Enthusiast;Master's+Student+in+Networks+%26+Security) " alt="Snake animation" />
-</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Zehar+Djauhar+Tadj+Eddine;Full-Stack+Developer;Legal+Tech+Enthusiast;Master's+Student+in+Networks+%26+Security" alt="Typing SVG" /></a>
 
 # Hi 👋, I'm Zehar Djauhar Tadj Eddine
 
