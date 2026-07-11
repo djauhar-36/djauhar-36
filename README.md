@@ -46,3 +46,5 @@ Management platform for startup incubation.
 <p align="center">
   <img src="https://github.com/djauhar-36/djauhar-36/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djauhar-36&layout=compact)
