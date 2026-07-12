@@ -15,35 +15,68 @@
 - 🔧 Passionate about combining Software Engineering with Legal Technology (Legal Tech)
 
 ---
-
-## 🛠️ Tech Stack
-
-Java • Spring Boot • JavaScript • Node.js • Express.js • React
-
-MongoDB • PostgreSQL • MySQL • Docker • Linux
-
-Git • GitHub • REST APIs • Flutter
 <h2 align="center">🛠️ Tech Stack</h2>
 
-<table align="center">
-<tr>
-<td align="center">
+<h3>💻 Programming Languages</h3>
 
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,ts,php,dart" />
+</p>
 
+<h3>🎨 Frontend Development</h3>
 
-<img src="https://skillicons.dev/icons?i=java,spring,js,nodejs,express,react,flutter,docker,git,github,linux,mongodb,mysql,postgres,html,css" />
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,vite,bootstrap,tailwind" />
+</p>
 
-</td>
+<h3>⚙️ Backend Development</h3>
 
-<td align="center">
+<p>
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,php" />
+</p>
 
+<h3>📱 Mobile Development</h3>
 
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,androidstudio" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=djauhar-36&layout=compact&theme=github_dark&hide_border=true" />
+<h3>🗄️ Databases</h3>
 
-</td>
-</tr>
-</table>
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,firebase" />
+</p>
+
+<h3>🤖 AI & Data Science</h3>
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,anaconda" />
+</p>
+
+<h3>🛠️ Development Tools</h3>
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,idea,eclipse,postman,git,github,maven,gradle,npm" />
+</p>
+
+<h3>🐳 DevOps & Cloud</h3>
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,nginx,vercel,netlify" />
+</p>
+
+<h3>💻 Operating Systems</h3>
+
+<p>
+<img src="https://skillicons.dev/icons?i=windows,linux,debian,ubuntu,kali" />
+</p>
+
+<h3>🌐 Networking & Security</h3>
+
+<p>
+Cisco Packet Tracer • REST APIs • JWT • Blockchain • GitHub Pages • XAMPP • VirtualBox • VMware • Google Colab • Jupyter Notebook • Node-RED • n8n
+</p>
+
 ---
 
 ## 🚀  Projects
