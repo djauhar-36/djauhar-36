@@ -174,7 +174,12 @@
         A comprehensive <strong>Digital Legal Platform</strong> designed specifically for Algeria. Empowering citizens with accessible legal information, document automation, and connecting them with legal professionals.
       </p>
       <p align="center">
-        <a href="#"><img src="https://img.shields.io/badge/🔗_View_Project-392EF7?style=for-the-badge" /></a>
+        <a href="https://github.com/djauhar-36/lawly" target="_blank">
+          <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Lawly DZ Repository" />
+        </a>
+        <a href="https://djauhar-36.github.io/lawly/" target="_blank">
+          <img src="https://img.shields.io/badge/Live_Demo-392EF7?style=for-the-badge&logo=githubpages&logoColor=white" alt="Lawly DZ Live Demo" />
+        </a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -187,7 +192,9 @@
         A <strong>Management Platform</strong> for university startup incubation programs. Streamlines the process from application to mentorship, tracking startup progress and resource allocation.
       </p>
       <p align="center">
-        <a href="#"><img src="https://img.shields.io/badge/🔗_View_Project-392EF7?style=for-the-badge" /></a>
+        <a href="https://github.com/djauhar-36/Incubature_backend" target="_blank">
+          <img src="https://img.shields.io/badge/Backend_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Incubator Backend Repository" />
+        </a>
       </p>
     </td>
   </tr>
@@ -235,28 +242,8 @@
 
 ---
 
-<h2 align="center">🎵 Now Playing</h2>
-
-<p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&redirect=true" target="_blank">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=0D1117&interchange=true&bar_color=392EF7&bar_color_cover=true" alt="Spotify Now Playing" />
-  </a>
-</p>
-
----
-
 <h3 align="center">💡 Random Dev Quote</h3>
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&quoteColor=392EF7" alt="Random Dev Quote" />
 </p>
-
----
-
-<div align="center">
-
-### ⭐ If you like my work, consider giving a star!
-
-<img src="https://raw.githubusercontent.com/djauhar-36/djauhar-36/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
-
-</div>
