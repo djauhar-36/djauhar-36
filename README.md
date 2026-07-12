@@ -186,7 +186,7 @@
       <h3 align="center">🏛️ University Business Incubator</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" />
-        <img src="https://img.shields.io/badge/Tech-Flutter%20%7C%20Node.js%20%7C%20MongoDB-green?style=flat-square" />
+        <img src="https://img.shields.io/badge/Tech-React%20%7C%20Node.js%20%7C%20MongoDB-green?style=flat-square" />
       </p>
       <p align="center">
         A <strong>Management Platform</strong> for university startup incubation programs. Streamlines the process from application to mentorship, tracking startup progress and resource allocation.
